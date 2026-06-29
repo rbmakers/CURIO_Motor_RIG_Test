@@ -1,4 +1,4 @@
-# CURIO 馬達品質動態辨識測試平台 — 韌體與理論說明（v3）
+# CURIO 馬達品質動態辨識測試平台 — 韌體與理論說明
 
 > 對應程式：`CURIO_Motor_Rig_Test.ino`（搭配 `BMI088.h` / `BMI088.cpp`，遙控部分移植自 `CURIO_ELRS_Test.ino`）
 > 平台：RP2350 / RP2354A
